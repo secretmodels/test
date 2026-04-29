@@ -1,0 +1,602 @@
+{
+  "common": {
+    "previous": "Anterior",
+    "next": "Siguiente"
+  },
+  "hero": {
+    "title1": "Transforma tu sensualidad ",
+    "title2": "en independencia financiera.",
+    "tag": "Business Intelligence",
+    "main1": "Crea contenido y",
+    "main2": "recibe las ganancias.",
+    "desc1": "Asumimos <1>el 100% del marketing, atención y ventas</1> por ti.",
+    "desc2": "Transformamos tus medios en un negocio <1>rentable y escalable</1>.",
+    "desc3": "Mantienes <1>total privacidad</1> mientras logras todo lo que siempre soñaste.",
+    "fallbackDesc": "Crea contenido y recibe las ganancias. Asumimos el 100% de la divulgación, atención y ventas, transformando tus medios en un negocio rentable y escalable, mientras mantienes total secreto y libertad.",
+    "cta": "Quiero ser evaluada",
+    "method": "Nuestro Método",
+    "stats": {
+      "privacy": "privacidad y secreto",
+      "experience": "experiencia necesaria",
+      "cost": "costo para iniciar"
+    },
+    "limited": "Cupos Limitados",
+    "limitedDescMobile": "Para garantizar el 100% de calidad en nuestros servicios, trabajamos con un número restringido de asociaciones.",
+    "limitedDescDesktop": "Enfoque total en calidad y exclusividad."
+  },
+  "nav": {
+    "links": {
+      "privacy": "Privacidad e Imagen",
+      "services": "Servicios",
+      "abroad": "Vivo en el Extranjero",
+      "process": "Cómo Funciona",
+      "faq": "Dudas"
+    },
+    "cta": "Ser Evaluada",
+    "closeMenu": "Cerrar menú",
+    "openMenu": "Abrir menú principal",
+    "copyright": "Secret Models © 2026"
+  },
+  "footer": {
+    "description": "Expertos en transformar el potencial creativo en carreras digitales de élite. Secreto absoluto, seguridad inquebrantable y facturación global.",
+    "agency": "Agencia",
+    "links": {
+      "privacy": "Privacidad",
+      "services": "Servicios",
+      "model": "Modelo"
+    },
+    "legal": "Legal",
+    "legalLinks": {
+      "terms": "Términos de Uso",
+      "compliance": "Compliance",
+      "security": "Seguridad"
+    },
+    "social": "Redes",
+    "copyright": "© 2026 Secret Models.",
+    "bottomLinks": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "global": "Global Operations"
+    }
+  },
+  "cta": {
+    "title": "Hay mujeres que solo observan el lujo de otras. Y hay quienes <1>financian el suyo propio.</1>",
+    "description": "Transforma tu magnetismo en el pase libre para la vida que deseas. Estás a un paso de unirte al grupo de mujeres que dominan el juego. <1>¿Hasta cuándo vas a seguir viendo a otras vivir la vida de tus sueños?</1>",
+    "button": "Quiero ser evaluada"
+  },
+  "appModal": {
+    "step": "Paso",
+    "of": "de",
+    "titles": {
+      "1": "Identificación",
+      "2": "Perfil Técnico",
+      "3": "Visión de Carrera",
+      "4": "Evaluación Visual *",
+      "5": "Contacto Seguro *",
+      "6": "¡Éxito!"
+    },
+    "buttons": {
+      "back": "Volver",
+      "submit": "Enviar para análisis",
+      "next": "Avanzar"
+    },
+    "loading": {
+      "preparing": "Preparando envío...",
+      "delayed": "El envío está tardando más de lo esperado, por favor espera...",
+      "processing": "Procesando...",
+      "sending": "Enviando Datos...",
+      "connecting": "Iniciando conexión..."
+    },
+    "errors": {
+      "submission": "Error al enviar tu aplicación. Por favor, verifica tu conexión e intenta nuevamente."
+    },
+    "step1": {
+      "desc1": "Esta es tu identificación oficial en el proceso de selección. Proporciona <1>información real</1>.",
+      "desc2": "La entrada de <1>menores de 18 años está estrictamente prohibida</1> y monitoreada.",
+      "desc3": "Quédate tranquila: el <1>secreto de tu registro es absoluto</1>.",
+      "nameLabel": "Nombre y Apellido ",
+      "namePlaceholder": "Ej: María Silva",
+      "ageLabel": "Edad (Mínimo 18) ",
+      "agePlaceholder": "Ej: 19",
+      "ageWarning": "Solo para mayores de 18 años."
+    },
+    "step2": {
+      "phoneLabel": "Modelo de tu Celular ",
+      "phonePlaceholder": "Ej: iPhone 14 Pro Max",
+      "relationshipLabel": "Estado Civil ",
+      "relationshipPlaceholder": "Seleccionar...",
+      "relationshipOptions": {
+        "single": "Soltera",
+        "dating": "Noviazgo / Casada",
+        "open": "Relación Abierta"
+      },
+      "countryLabel": "País de Origen ",
+      "countryPlaceholder": "Seleccionar o buscar...",
+      "passportLabel": "¿Tienes un pasaporte válido? ",
+      "passportOptions": {
+        "no": "No tengo",
+        "yes": "Sí, tengo",
+        "process": "En proceso de emisión"
+      },
+      "availabilityLabel": "Disponibilidad de Tiempo para Producción de Contenido ",
+      "availabilityOptions": {
+        "part": "Unas horas al día",
+        "full": "Dedicación total",
+        "weekend": "Fines de semana"
+      },
+      "goalLabel": "Meta Financiera ",
+      "goalOptions": {
+        "5k": "Hasta $1k",
+        "15k": "$1k a $3k",
+        "50k": "Más de $3k",
+        "sky": "Lo máximo posible"
+      },
+      "mandatory": "* Campos obligatorios"
+    },
+    "step3": {
+      "q1Label": "Capacidad de Entrega Visual",
+      "q1Placeholder": "¿Te sientes cómoda frente a la cámara? ¿Sabes posar o has realizado sesiones antes? Cuéntanos tu experiencia.",
+      "q2Label": "Persuasión y Compromiso de Audiencia",
+      "q2Placeholder": "¿Te consideras una persona sensual/sexy? ¿Cómo es tu relación con tu propia imagen?",
+      "q3Label": "Interés y Barrera de Entrada",
+      "q3Placeholder": "¿Has tenido interés en operar en este mercado antes? ¿Qué te impidió o te hizo esperar hasta ahora?",
+      "q4Label": "Objetivo Financiero Estratégico (Corto/Medio Plazo)",
+      "q4Placeholder": "Independencia, bienes materiales, ayudar a la familia... ¿cuál es tu impulso?",
+      "q5Label": "Límites y Restricciones Innegociables",
+      "q5Placeholder": "Lo que NO estás dispuesta a hacer bajo ninguna circunstancia..."
+    },
+    "step4": {
+      "alert": "<1>Análisis Estético Preliminar.</1> Los medios enviados <2>no serán almacenados</2>. Pasarán por un análisis técnico realizado por nuestra evaluadora y serán <3>borrados de nuestro servidor</3> a continuación.",
+      "desc1": "Es <1>fundamental</1> que sean imágenes de cuerpo entero y preferiblemente con ropa ajustada, ropa de gimnasia o trajes de baño, para que sea posible mapear tu estructura corporal (cintura, caderas, busto y proporciones).",
+      "desc2": "<1>Atención a la Ropa:</1> Si no tienes imágenes exactamente en las posiciones a continuación, puedes enviar otras, pero es importante que sean de cuerpo entero y no necesitas mostrar la cara.",
+      "positions": {
+        "front": "De Frente",
+        "side": "De Lado",
+        "back": "De Espaldas"
+      },
+      "error": "Adjunta las 3 fotos obligatorias para análisis de biotipo."
+    },
+    "step5": {
+      "desc": "¿Por dónde prefieres ser contactada en caso de que tu perfil sea preaprobado?",
+      "methods": {
+        "whatsapp": "WhatsApp",
+        "telegram": "Telegram",
+        "instagram": "Instagram",
+        "email": "E-mail"
+      },
+      "labels": {
+        "whatsapp": "Tu Número (WhatsApp)",
+        "email": "Tu Correo Profesional",
+        "handle": "Tu Usuario / Handle"
+      },
+      "placeholders": {
+        "email": "Ej: maria.silva (sin el @)",
+        "brPhone": "(00) 00000-0000",
+        "phone": "Número",
+        "handle": "Tu respuesta"
+      },
+      "countryWarning": "Necesitas seleccionar tu País de Origen en el Paso 2 para configurar el código de área.",
+      "alert": "<1>Protocolo Operativo:</1> Mantente atenta a tu Spam/Solicitudes. Como somos una operación exclusiva, no exigimos \"tarifas fantasma\" de entrada. Retenemos los gastos basándonos puramente en tu beneficio neto (comisión de agencia). El contacto que recibirás siempre será discreto."
+    },
+    "step6": {
+      "title": "¡Éxito!",
+      "desc": "Mantente atenta al contacto de nuestra evaluadora.",
+      "close": "Cerrar"
+    },
+    "zod": {
+      "required": "Campo obligatorio.",
+      "name": "Por favor, introduce tu nombre y apellido.",
+      "age": "Solo para mayores de 18 años.",
+      "contact": "Campo obligatorio para ponernos en contacto."
+    },
+    "service": {
+      "optimizing": "Optimizando tus fotos...",
+      "requiredPhotos": "Las 3 fotos son obligatorias.",
+      "sending": "Cifrando y enviando tus datos...",
+      "connectionError": "Fallo en la conexión con o el servidor de destino.",
+      "saveError": "Error al guardar tus datos en la base.",
+      "invalidFormat": "Formato de imagen inválido."
+    }
+  },
+  "trustBadges": [
+    "Escudo Antifiltraciones de Contenido",
+    "Gestión Operativa Élite 360º",
+    "Anonimato Facial Absoluto",
+    "Facturación en Moneda Fuerte",
+    "Estrategia Faceless (Sin Rostro)",
+    "Blindaje Social y Geográfico",
+    "Asesoría Humanizada"
+  ],
+  "testimonials": {
+    "tag": "Confidencialidad Comprobada",
+    "title": "La tranquilidad y seguridad de quien",
+    "highlight": "ya lucra en secreto.",
+    "description": "Más que gestionar carreras, protegemos reputaciones. Conoce la realidad de algunas de nuestras socias, que dejaron la inseguridad de lado y hoy lucran en grande bajo nuestra asesoría.",
+    "items": [
+      {
+        "text": "Soy pasante y me moría de miedo de que alguien de la oficina o de la universidad descubriera una filtración. La agencia me bloqueó en todo mi estado. Hoy gano 3 veces más que mi jefe y nadie ni se lo imagina.",
+        "author": "Modelo L.",
+        "initial": "L",
+        "age": "19 años",
+        "status": "Operación Faceless"
+      },
+      {
+        "text": "Siempre tuve el sueño de comprar un iphone 17, y gracias a esta maravillosa asesoría lo logré. Hoy hago mi contenido desde mi habitación y los fines de semana. Ellos venden a los gringos en el chat mientras duermo. Es increíblemente bueno.",
+        "author": "Modelo B.",
+        "initial": "B",
+        "age": "21 años",
+        "status": "Máquina de Ventas Bilingüe"
+      },
+      {
+        "text": "Fui de intercambio a Portugal y el costo de vida me pesó mucho. Intentar sola fue horrible, era demasiado por hacer. Hoy Secret Models opera todo para mí y esta conversión de divisas paga mi alquiler y aún me sobra para viajar.",
+        "author": "Modelo C.",
+        "initial": "C",
+        "age": "22 años",
+        "status": "Asesoría Multilingüe"
+      }
+    ]
+  },
+  "faq": {
+    "tag": "Preguntas Frecuentes",
+    "title": "Preguntas que",
+    "highlight": "probablemente tengas.",
+    "items": [
+      {
+        "q": "¿Y si mi familia o conocidos se enteran?",
+        "a": "Tu privacidad está blindada incluso antes de la primera publicación. Aplicamos <1>estrategias de bloqueo y manipulación geográfica a través de algoritmos</1>, lo que significa que tu perfil permanece invisible para conocidos y lejos de tu región."
+      },
+      {
+        "q": "¿Necesito mostrar mi rostro en fotos y videos?",
+        "a": "La decisión es <1>100% tuya</1>. Actuar en formato \"Faceless\" (Sin Rostro) garantiza privacidad absoluta para tu día a día. Sin embargo, si decides mostrar tu rostro, la facilidad para crear conexión y la ventaja financiera (LTV) son considerablemente mayores. Como mostramos en la sección de estrategias, dominamos ambos modelos para escalar tus ganancias de forma segura."
+      },
+      {
+        "q": "¿Estoy obligada a grabar y tomar fotos explícitas?",
+        "a": "<1>Sí.</1> Los contenidos sensuales sutiles (lencería/bikini) se usan solo como 'cebo' en el embudo gratuito. Pero el dinero brutal está en el <2>contenido explícito</2>. Es la fuerte monetización dentro del Pay-Per-View (contenido de pago por mensaje privado) lo que nos permite operar tus cuentas con una escala financiera irreal. Este trabajo es el motor del negocio."
+      },
+      {
+        "q": "¿Cómo recibo mi dinero? ¿Aparece 'Onlyfans' en el estado de cuenta?",
+        "a": "Tu privacidad también alcanza tus impuestos y estados bancarios. No transferimos dólares directamente de las plataformas a ti. Usamos billeteras cifradas o intermediarios financieros que envían el valor final bajo <1>razones sociales genéricas de pagos y tecnología</1>. <2>Nunca</2> aparecerá \"OnlyFans\" o \"Privacy\" en tu estado de cuenta."
+      },
+      {
+        "q": "No tengo el último iPhone ni una cámara cara, ¿puedo empezar?",
+        "a": "<1>Absolutamente sí.</1> De hecho, los suscriptores huyen de las grabaciones con apariencia fría de 'estudio profesional'. Pagan precios altísimos por la estética de la vida real — el <2>auténtico contenido 'amateur'</2>. Nuestra Dirección de Arte enseña ángulos, uso de luz y trucos visuales que harán que cualquier smartphone genere material de alta conversión."
+      },
+      {
+        "q": "¿Existe algún costo inicial o tarifa cobrada por la agencia para empezar?",
+        "a": "<1>Absolutamente nada.</1> No cobramos tarifas de configuración, de inscripción ni mensualidades ocultas. Trabajamos bajo un modelo estrictamente basado en el rendimiento (Revenue Share). La agencia invierte tiempo, equipo e infraestructura en tu proyecto desde el día cero. Si tus medios no generan ganancias, nosotros no recibimos nada."
+      }
+    ]
+  },
+  "problem": {
+    "tag": "El error principal",
+    "title": "El mayor error no es el miedo a empezar,",
+    "highlight": "es competir sola.",
+    "labelProblem": "Actuando Sola",
+    "labelSolution": "Con Secret Models",
+    "introMobile": "Sin una <1>estructura profesional</1>, gastas tu <2>tiempo y energía</2> lidiando con <3>curiosos y hombres asquerosos</3>, eligiendo qué publicar, dónde promocionar, intentando vender...",
+    "introMobilePoints": [
+      "No naciste para lidiar con este caos.",
+      "Las mujeres inteligentes delegan todo lo operacional agotador a una agencia profesional.",
+      "El resultado es multiplicar tus ganancias en automático mientras solo te enfocas en vivir bien y ver el dinero caer en tu cuenta."
+    ],
+    "introDesktopLeft": "Mientras gastas tu tiempo y energía eligiendo qué publicar, dónde promocionar, lidiando con curiosos e intentando vender, <1>el mercado avanza.</1>",
+    "introDesktopRight": "Las mujeres realmente inteligentes no operan solas porque saben que es agotador e ineficiente. Ceden su imagen a una agencia profesional que opera entre bastidores para multiplicar sus ganancias de forma automática, mientras se enfocan solo en vivir bien y recibir.",
+    "carouselHint": "Desliza las tarjetas abajo para ver cómo transformamos cada uno de tus desafíos",
+    "desktopHeaderLeft": "Contexto de Gestión",
+    "desktopHeaderRight": "Diferencial Secret Models",
+    "comparison": [
+      {
+        "bad": "Bloquearte por creer que para tener éxito necesitas <1>mostrar tu rostro</1>.",
+        "goodTitle": "Anonimato Facial",
+        "good": "Protegemos tu identidad por encima de todo. Con nuestro Método Faceless, lucras con el poder del misterio, garantizando que tu <1>rostro nunca sea revelado</1> y tu vida privada permanezca intacta."
+      },
+      {
+        "bad": "El miedo de ser <1>reconocida por familiares</1> o colegas, destruyendo tu imagen social y tu sigilo.",
+        "goodTitle": "Blindaje Social y Geográfico.",
+        "good": "Aplicamos filtros rigurosos de privacidad, garantizando que tu perfil sea <1>invisible para conocidos</1> e inaccesible en tu región. Esto te permite dominar mercados internacionales con total discreción."
+      },
+      {
+        "bad": "Que tus medios sean <1>robados y filtrados</1>, perdiendo el control de tu imagen y dejando de lucrar.",
+        "goodTitle": "Escudo de Protección de Contenido.",
+        "good": "Utilizamos marcas digitales invisibles y monitoreo constante, además de <1>asesoría jurídica especializada</1> para identificar y <2>castigar a los responsables de filtraciones</2> y piratería."
+      },
+      {
+        "bad": "La presión de creer que se necesita un <1>\"cuerpo de modelo\"</1> para tener éxito y ser deseada.",
+        "goodTitle": "Curaduría Estética de Élite.",
+        "good": "El deseo es una construcción estratégica. Nuestra dirección de arte se enfoca en tus <1>mejores ángulos y puntos fuertes</1>, garantizando que factures alto independiente de estándares de perfección."
+      },
+      {
+        "bad": "Perder horas intentando entender algoritmos, tráfico y la <1>edición técnica</1> agotadora de medios.",
+        "goodTitle": "Gestión Élite 360º.",
+        "good": "Nos encargamos de todo lo aburrido y estresante. <1>Nuestra especialista se ocupa de la edición</1>, mientras nuestro equipo atrae al público correcto y transforma tu material en ganancias reales."
+      }
+    ]
+  },
+  "faceStrategy": {
+    "tag": "Estrategias de Exposición",
+    "title": "¿Con o sin rostro? <1 />",
+    "highlight": "La elección es tuya.",
+    "description": "Dominamos ambos enfoques de mercado. Haz clic en 'Saber más' en las tarjetas de abajo para acceder a toda la información referente a los pros y contras de cada modalidad.",
+    "previewBtn": "Ver Vista Previa",
+    "learnMoreBtn": "Saber más",
+    "strategyLabel": "Estrategia",
+    "positiveLabel": "El Lado Positivo",
+    "tradeoffLabel": "Lo que sacrificas",
+    "referencesLabel": "Referencias Visuales",
+    "referencesHint": "Desliza hacia el lado • Haz clic para ampliar",
+    "closeLightbox": "Cerrar Visualización",
+    "refAlt": "Referencia",
+    "strategies": [
+      {
+        "title": "Culto a la <br /> Personalidad",
+        "innerTitle": "Con Rostro",
+        "subtitle": "La Doctrina de la Imagen",
+        "ativos": [
+          {
+            "title": "Sentimiento de Intimidad y Proximidad Real",
+            "description": "La exposición del rostro es el principal gatillo para validar la sensación de tener acceso a la <strong>vida privada</strong>. Esta sensación es lo que convierte al suscriptor pasivo en un <strong>inversor emocional</strong>, dispuesto a invertir valores altos repetidamente para sostener el sentimiento de exclusividad."
+          },
+          {
+            "title": "Valor Percibido y Descomoditización",
+            "description": "Al asociar el rostro al contenido, eliminas la barrera de comparación de precios. La estrategia aquí es la <strong>autoridad auténtica</strong>: el suscriptor deja de comprar 'medios' y pasa a adquirir <strong>atención exclusiva</strong>, permitiendo cobrar valores muy por encima del promedio."
+          },
+          {
+            "title": "Vínculo de Aceleración de ROI",
+            "description": "La identificación funciona como un potenciador de confianza inmediata, impulsando la <strong>curva de crecimiento financiero</strong>. Tener un rostro acelera la captación de nuevos clientes y garantiza una <strong>escalabilidad de ingresos</strong> en tiempo récord."
+          },
+          {
+            "title": "Vínculo de Branding y Equity a Largo Plazo",
+            "description": "El sentimiento de conexión crea un <strong>club de fans leal</strong> que sirve de base para el lanzamiento de marcas propias, transformando la audiencia en un <strong>activo comercial duradero</strong>. El enfoque es la transición a <strong>figura pública (influencer)</strong>."
+          }
+        ],
+        "custos": [
+          {
+            "title": "Renuncia a la Privacidad a Cambio de Escala",
+            "description": "Permaneces invisible para conocidos, pero al mostrar el rostro renuncias a la <strong>privacidad absoluta</strong> y al anonimato en favor de la exposición necesaria para aumentar la facturación."
+          },
+          {
+            "title": "Fijación de Imagen a Cambio de Posicionamiento VIP",
+            "description": "Asociación continua de nicho: tu rostro será validado por el <strong>mercado VIP</strong>, creando una identidad vinculada al segmento de forma prolongada por tus suscriptores."
+          }
+        ]
+      },
+      {
+        "title": "Ingeniería del Misterio",
+        "innerTitle": "Sin Rostro",
+        "subtitle": "Faceless VIP",
+        "ativos": [
+          {
+            "title": "Blindaje de Identidad Social",
+            "description": "Actúa como una barrera entre la vida privada y la persona pública. Al ocultar el rostro, se establece una estrategia de preservación de la libertad geográfica y social. El objetivo es garantizar que el éxito financiero no comprometa el <strong>anonimato en ambientes físicos</strong>, permitiendo el tránsito libre en viajes y eventos sin el riesgo de ser reconocida o sufrir acoso por terceros."
+          },
+          {
+            "title": "Libertad de Performance",
+            "description": "La eliminación del rostro funciona como un <strong>desinhibidor estratégico de producción</strong>. Al eliminar el riesgo de juicio social directo, la creadora puede expandir sus límites en la producción hacia contenidos más atrevidos y fetichistas. Esta libertad performativa acorta el ciclo de producción y aumenta el Valor de Vida Útil (LTV) del contenido, resultando en una <strong>escala de facturación mayor</strong> en un intervalo de tiempo menor."
+          },
+          {
+            "title": "Apalancamiento por Gatillo de Escasez Visual",
+            "description": "Ocultar la identidad no es solo una protección, sino un <strong>vínculo psicológico de engagement</strong>. Al restringir el acceso visual completo, se crea un activo basado en el misterio. Esto activa la curiosidad imaginativa del suscriptor, forzándolo a llenar los vacíos con proyecciones personales, lo que puede aumentar el deseo de consumo y la <strong>retención en la plataforma</strong>."
+          }
+        ],
+        "custos": [
+          {
+            "title": "Privacidad vs. Producción Técnica",
+            "description": "Al optar por el anonimato facial, el costo de oportunidad se convierte en la simplicidad de la producción. Siguiendo este método, se sacrifica la facilidad de clics casuales a cambio de la necesidad obligatoria de contenido más caliente, provocativo, buena iluminación, escenarios y <strong>composición de ángulos</strong> para compensar la ausencia de la expresión facial."
+          },
+          {
+            "title": "Escalabilidad Financiera vs. Libertad de Tiempo",
+            "description": "La búsqueda del alto retorno financiero y conversión emocional inmediata por parte del suscriptor exige un compromiso mayor al inicio, siendo el costo de oportunidad de un crecimiento rápido la imposibilidad de publicaciones ocasionales, siendo sustituida por una <strong>agenda rígida de consistencia obligatoria</strong>."
+          },
+          {
+            "title": "Anonimato vs. Monetización Externa",
+            "description": "Al elegir la seguridad de la identidad preservada, se renuncia al mercado publicitario tradicional; el costo de oportunidad del anonimato es la <strong>imposibilidad de monetizar la imagen como influenciadora pública</strong> y de firmar asociaciones comerciales con otras marcas que exijan exposición personal."
+          }
+        ]
+      }
+    ]
+  },
+  "services": {
+    "tag": "Servicios incluidos",
+    "title": "Toda la estructura que recibirás, <1 />",
+    "highlight": "para dominar el mercado en secreto.",
+    "description": "Nuestra gestión 360º cubre desde la configuración burocrática hasta la estrategia de contenido y tráfico pago, garantizando que te enfoques solo en la creación mientras nosotros nos encargamos de la escala.",
+    "progressLabel": "Innovación Continua",
+    "ariaListLabel": "Lista de servicios incluidos en la asociación",
+    "items": [
+      {
+        "tag": "SETUP OPERATIVO",
+        "title": "Infraestructura y Setup",
+        "desc": "Asumimos toda la burocracia y técnica. Gestionamos la creación de cuentas, verificación de documentos, desbloqueo de herramientas y validaciones de seguridad, garantizando que formes parte de un <1>ambiente seguro y validado para escalar sin obstáculos.</1>"
+      },
+      {
+        "tag": "PROTOCOLO DE SEGURIDAD",
+        "title": "Blindaje Social y Geográfico",
+        "desc": "Configuración de <1>filtros de invisibilidad</1>. Convertimos tu perfil en un \"fantasma\" operando fuera del radar. Lucras en tu país y en el exterior con <2>riesgo cero</2> de cruzarte con conocidos."
+      },
+      {
+        "tag": "DIRECCIÓN EJECUTIVA",
+        "title": "Dirección de Arte y Curaduría de Élite",
+        "desc": "Deja de adivinar qué publicar. Entregamos los ángulos, iluminación y las poses que <1>abren billeteras</1>. Dirección ejecutiva que respeta el 100% de tus límites."
+      },
+      {
+        "tag": "POSPRODUCCIÓN",
+        "title": "Edición y Anonimato",
+        "desc": "Transformamos tu material bruto en medios cinematográficos, uniendo tratamientos de color y manipulación de elementos para valorizar cada detalle de tu contenido. Todo el proceso de edición es realizado <1>exclusivamente por mujeres</1>, asegurando que tu identidad permanezca protegida bajo filtros técnicos avanzados."
+      },
+      {
+        "tag": "INGENIERÍA DE ALGORITMO",
+        "title": "Tráfico y Captación",
+        "desc": "La tracción invisible que genera la mayor facturación. Dominamos algoritmos y Dark Funnels para atraer a los mayores pagadores, utilizando <1>estrategias de captación que seducen.</1>"
+      },
+      {
+        "tag": "MÁQUINA DE INGRESOS",
+        "title": "Conversión y Ventas",
+        "desc": "Nuestras chatters dominan estrategias de persuasión, seduciendo y enganchando para <1>extraer el lucro máximo de cada interacción</1>. Nos enfocamos en facturación a escala y moneda fuerte, operando las 24 horas del día para maximizar el valor de cada suscriptor."
+      },
+      {
+        "tag": "INTELIGENCIA FISCAL",
+        "title": "Gestión de Lucro y Fiscal",
+        "desc": "La ruta segura hacia tu libertad financiera. Estructuramos la recepción de tus ganancias con seguridad e inteligencia fiscal, garantizando que tu lucro llegue a ti sin bloqueos bancarios o complicaciones burocráticas, para que <1>disfrutes de tu facturación sin riesgos ni dolores de cabeza.</1>"
+      },
+      {
+        "tag": "SOPORTE INTEGRAL",
+        "title": "Blindaje Mental y Soporte",
+        "desc": "El amparo que no encuentras fuera. Ofrecemos soporte psicológico para tu total tranquilidad, unido a un <1>acogimiento amigo y constante</1> donde puedes compartir cada inseguridad. Caminamos a tu lado para que tengas confianza absoluta en cada decisión y preocupación."
+      },
+      {
+        "tag": "LIFESTYLE DESIGN",
+        "title": "Gestión de Tiempo y Lifestyle",
+        "desc": "Alta rentabilidad con esfuerzo inteligente. Diseñamos un flujo de trabajo a medida para que produzcas contenido en tu tiempo disponible, <1>preservando el 100% de tu vida social y privada</1> mientras tu cuenta escala en automático."
+      }
+    ]
+  },
+  "process": {
+    "tag": "Cómo funciona",
+    "title": "Do primeiro contato <1>ao primeiro resultado.</1>",
+    "description": "Un flujo diseñado para maximizar tu beneficio con cero esfuerzo técnico.",
+    "ariaSteps": "Etapas del proceso de la agencia",
+    "ariaGallery": "Galería de ejemplos de contenido",
+    "altSlide": "Ejemplo de contenido producido por la agencia - Slide",
+    "steps": [
+      {
+        "title": "Auditoría e Blueprint de Lucro",
+        "desc": "No usamos recetas preparadas. Comenzamos con una lectura profunda de tus metas e, o mais importante, de tus limites. Diseñamos un <1>mapa estratégico 100% a medida</1> que garantiza comodidad absoluta en tu operación."
+      },
+      {
+        "title": "Blindaje Tecnológico",
+        "desc": "Antes de que se publique cualquier foto o vídeo, implementamos todos los métodos de seguridad que garantirán tu privacidad. Criamos tus cuentas desde cero e aplicamos <1>bloqueos geográficos blindados</1>, aislando tu nueva fuente de ingresos de tu círculo social."
+      },
+      {
+        "title": "Producción Minimalista",
+        "desc": "Olvida los equipos caros. Entregamos las directrizes masticadas de luz, poses e roteiros. Ejecutas todo <1>usando solo la cámara de tu celular actual, trancada en tu próprio cuarto</1> y en tus días libres."
+      },
+      {
+        "title": "Lanzamiento",
+        "desc": "Es cuando el show comienza. Nos conectamos al público brasileño y extranjero, engajamos, seduzimos e <1>realizamos el 100% de las ventas</1>, mientras solo observas la llegada de las notificaciones de transferencia a tu cuenta."
+      }
+    ]
+  },
+  "foreigner": {
+    "tag": "Expansión Global",
+    "title": "Expansión Global e",
+    "highlight": "Asesoría Internacional.",
+    "description": "Residir en el extranjero es tu mayor ventaja competitiva y de seguridad. Nuestra asesoría convierte tu distancia geográfica en una operación lucrativa en monedas fuertes, permitiéndote monetizar tu imagen con absoluto secreto y disfrutar de una exitosa vida doble.",
+    "ariaList": "Características de expansión global",
+    "progressLabel": "Alcance Global",
+    "features": [
+      {
+        "tag": "VENTAJA COMPETITIVA",
+        "title": "Deseo y Exclusividad",
+        "desc": "Tu origen extranjero es un privilegio que te hace extremadamente deseada. El interés instintivo de los hombres brasileños por perfiles internacionales garantiza una <1>tasa de participación y conversión muy alta</1>, lo que resulta en un crecimiento exponencial de tus cuentas, lo que influye directamente en tus ganancias."
+      },
+      {
+        "tag": "PROTOCOLO DE ANONIMATO",
+        "title": "Identidad Global, Secreto Local",
+        "desc": "Vivir fuera de Brasil es tu licencia para exponerte sin miedo. La distancia geográfica te otorga la seguridad que te permite <1>mostrar tu rostro con tranquilidad</1>, lo que resulta en un vínculo íntimo que os homens brasileños buscan con una gringa, mientras tu vida real permanece un secreto inviolable donde vives."
+      },
+      {
+        "tag": "INTELIGENCIA CULTURAL",
+        "title": "Inteligencia Cultural y Ventas Nativas",
+        "desc": "El idioma ya no es uma barrera. Nuestro equipo está compuesto por chatters fluentes en la cultura local, lo que permite la creación de un vínculo emocional más intenso con tus suscriptores, <1>haciendo que paguen cada vez más por tu atención.</1> Disfrutas de un equipo de conversión 100% nativo en el país que es uno de los mayores consumidores de este tipo de contenido en el mundo."
+      },
+      {
+        "tag": "RUTA FINANCIERA",
+        "title": "Ingeniería de Beneficio Internacional",
+        "desc": "Aprovecha la fuerza de la economía global a tu favor. Dirigimos tu cuenta para facturar en monedas fuertes, lo que proporciona uma <1>aceleración brutal de tu nivel de vida</1>. Una estructura diseñada para quienes buscan enriquecerse de forma sólida, segura y desvinculada de la economía local."
+      },
+      {
+        "tag": "COMUNICACIÓN NATIVA",
+        "title": "Soporte Dedicado en Tu Idioma",
+        "desc": "Toda la comunicación entre tú y la agencia ocorre en el idioma que prefieras. Nuestro equipo ofrece <1>soporte bilingüe dedicado</1>, garantizando que comprendas cada etapa de la operación, cada informe de facturación y cada decisión estratégica con total claridad y sin intermediarios."
+      },
+      {
+        "tag": "FLUJO DE CAPITAL",
+        "title": "Recepción Internacional Blindada",
+        "desc": "Tus ganancias te llegan sin rastros y sin burocracia. Estructuramos el flujo financiero a través de intermediarios que despachan tus beneficios bajo IDs corporativas de tecnología genéricas, garantizando que <1>ninguna plataforma de contenido para adultos aparezca en tu extracto bancario</1>. Recibes en dólares, euros o la moneda que elijas, con total discreción fiscal."
+      },
+      {
+        "tag": "CUMPLIMIENTO LEGAL",
+        "title": "Protección Contractual Internacional",
+        "desc": "Tu operación está protegida por un contrato legalmente vinculante que regula derechos, entregas y secreto irrestricto de tus datos. Mantienes <1>acceso total a las plataformas para auditar movimientos en tiempo real</1>, garantizando transparencia absoluta sobre cada centavo generado. Ningún contenido se publica sin tu aprobación previa."
+      }
+    ],
+    "stats": [
+      { "label": "Países Atendidos" },
+      { "label": "Monedas Fuertes" },
+      { "label": "Soporte Bilingüe" }
+    ],
+    "map": {
+      "saopaulo": "São Paulo",
+      "miami": "Miami",
+      "london": "Londres",
+      "dubai": "Dubái",
+      "lisbon": "Lisboa"
+    }
+  },
+  "model": {
+    "tag": "Modelo de negocio",
+    "title": "Sociedad sin riesgo. <1>Invertimos en ti.</1>",
+    "description": "No pagas por entrar, no hay cuotas mensuales y no asumes riesgos financieros. Financiamos toda la infraestructura de captación, software y ventas. Trabajamos exclusivamente por comisión: si no obtienes beneficios, nosotros não ganamos ni un céntimo.",
+    "platformsTitle": "Plataformas",
+    "captureTitle": "Captación",
+    "guaranteeTitle": "Transparencia y Contrato Oficial",
+    "guaranteeDesc": "Operamos bajo un <1>contrato de valor jurídico</1> que regula toda la operación, blindando tus derechos y definiendo claramente las obligaciones de la agencia y tus entregas como modelo. Además del secreto de datos sin restricciones, <2>mantienes el acceso a las plataformas</2> para auditar todos los movimientos en tiempo real y verificar la precisión financiera de tus pagos.",
+    "alt": "Modelo de Negocio"
+  },
+  "legal": {
+    "terms": {
+      "title": "Términos de Uso",
+      "intro": "Estos Términos de Uso (\"Términos\") rigen el acceso y uso de los servicios ofrecidos por Secret Models (\"Agencia\", \"nosotros\"). Al enviar una solicitud, acceder a este sitio web o iniciar cualquier forma de asociación con nosotros, tú (\"Modelo\", \"Creadora\") declaras que has leído, entendido y aceptas íntegramente las condiciones aquí establecidas.",
+      "sections": [
+        { "title": "1. Elegibilidad", "content": "Los servicios de Secret Models están destinados exclusivamente a personas físicas de 18 (dieciocho) años o más, plenamente capaces según la legislación vigente en su país de residencia. La prueba de edad es obligatoria y se solicitará durante el proceso de verificación de las plataformas asociadas." },
+        { "title": "2. Naturaleza de la Asociación", "content": "La relación entre Secret Models y la Modelo es de naturaleza comercial, basada en una comisión sobre los ingresos netos generados en las plataformas digitales. No hay cuotas de afiliación, cuotas mensuales ni costos iniciales para comenzar las actividades. La Modelo no es empleada de la Agencia, y la relación se configura como una prestación de servicios independiente y mutua." },
+        { "title": "3. Obligaciones de la Modelo", "content": "La Modelo se compromete a: (a) proporcionar información verdadera y actualizada durante el proceso de solicitud; (b) producir y enviar medios (fotos y videos) de acuerdo con las pautas acordadas con el equipo de gestión; (c) mantener en absoluto secreto las estrategias comerciales, los procesos internos y las metodologías exclusivas de la Agencia; (d) no establecer acuerdos paralelos con terceros que entren en conflicto con los términos de la asociación actual." },
+        { "title": "4. Obligaciones de la Agencia", "content": "Secret Models se compromete a: (a) proporcionar toda la infraestructura para la gestión, adquisición de tráfico, edición, participación y ventas; (b) mantener a la Modelo con acceso irrestricto a las plataformas para auditoría financiera en tiempo real; (c) garantizar el secreto absoluto de toda la información personal y los medios compartidos; (d) realizar las transferencias financieras dentro de los plazos acordados en el contrato individual." },
+        { "title": "5. Propiedad Intelectual", "content": "Todo el contenido producido por la Modelo sigue siendo su propiedad intelectual. La Agencia posee una licencia para usarlo con fines exclusivos de distribución, promoción y monetización en las plataformas acordadas durante la vigencia de la asociación." },
+        { "title": "6. Terminación", "content": "Ambas partes pueden rescindir la asociación en cualquier momento, con previo aviso según lo estipulado en el contrato individual. En caso de rescisión, la Agencia se compromete a cesar de inmediato la publicación de nuevo contenido y a realizar las transferencias financieras pendientes dentro del plazo contractual." },
+        { "title": "7. Limitación de Responsabilidad", "content": "Secret Models no se hace responsable de: (a) variaciones naturales en los ingresos debido a fluctuaciones del mercado o algoritmos de las plataformas; (b) acciones de terceros que estén fuera del control directo de la Agencia; (c) consecuencias derivadas de información falsa proporcionada por la Modelo durante el proceso de solicitud." }
+      ],
+      "footer": "Última actualización: Abril de 2026. Estos términos pueden actualizarse periódicamente. Recomendamos revisar este documento con regularidad."
+    },
+    "compliance": {
+      "title": "Política de Cumplimiento",
+      "intro": "Secret Models opera bajo los más estrictos estándares de integridad, ética y cumplimiento legal aplicables al mercado del entretenimiento digital para adultos. Esta política describe los pilares que sustentan nuestra operación y garantizan la legalidad de todas las actividades realizadas bajo nuestra gestión.",
+      "sections": [
+        { "title": "1. Verificación de Identidad y Edad", "content": "En cumplimiento con las regulaciones internacionales — incluyendo, pero no limitándose al Título 18 del Código de los Estados Unidos (USC §2257) y sus equivalentes en las jurisdicciones aplicables — todas las Modelos administradas por Secret Models pasan por un proceso obligatorio de verificación de identidad y prueba de mayoría de edad antes de iniciar cualquier actividad. No se publica ningún contenido sin la finalización completa de este proceso." },
+        { "title": "2. Consentimiento Informado", "content": "Todo el contenido producido y distribuido por la Agencia es resultado del consentimiento expreso, libre e informado de la Modelo. La Creadora tiene total autonomía para definir los límites de su producción, rechazar categorías de contenido y revocar los consentimientos otorgados previamente en cualquier momento, sin sanciones." },
+        { "title": "3. Cumplimiento con las Plataformas", "content": "Secret Models opera estrictamente dentro de los Términos de Servicio de cada plataforma asociada (OnlyFans, Privacy, Fansly y otras). No practicamos, fomentamos ni toleramos ninguna violación de las regulaciones de estas plataformas, incluyendo, pero no limitándose a: manipulación artificial de métricas, uso de bots o creación de cuentas fraudulentas." },
+        { "title": "4. Ética Documental y Financiera", "content": "El manejo de documentos civiles y datos bancarios se realiza exclusivamente para fines de aprobación y verificación requeridos por las plataformas. Todos los datos se almacenan con cifrado de nivel bancario y protocolos de seguridad. La Agencia mantiene registros financieros transparentes y accesibles a la Modelo para auditoría en cualquier momento." },
+        { "title": "5. Combate a la Explotación", "content": "Secret Models tiene tolerancia cero hacia cualquier forma de explotación, coerción o trabajo forzado. Todas las asociaciones se celebran de forma voluntaria, con términos claros y rescindibles. Cualquier informe de prácticas irregulares es investigado inmediatamente por la gerencia." },
+        { "title": "6. Canal de Denuncias", "content": "Proporcionamos canales de comunicación confidenciales para que las Modelos, empleados o terceros puedan denunciar posibles violaciones a esta política. Todos los informes se tratan con absoluto secreto y sin represalias." }
+      ],
+      "footer": "Esta política se revisa semestralmente y se actualiza según lo exijan los cambios regulatorios en las jurisdicciones aplicables."
+    },
+    "security": {
+      "title": "Seguridad y Blindaje",
+      "intro": "La protección de la identidad y la seguridad personal de nuestras Modelos son el pilar innegociable de la operación de Secret Models. A continuación, detallamos las capas de protección que implementamos para blindar tu vida privada.",
+      "sections": [
+        { "title": "1. Blindaje Geográfico (Geoblocking)", "content": "Implementamos tecnologías avanzadas de bloqueo regional en las plataformas de contenido, evitando que usuarios ubicados en tu país, estado, ciudad o radio de proximidad definido accedan a tu perfil. Esto significa que familiares, compañeros de trabajo y conocidos de tu círculo social no podrán ver tu contenido, incluso si lo buscan activamente." },
+        { "title": "2. Estratégia Faceless (Sin Rostro)", "content": "Para las Modelos que optan por la estrategia sin rostro, desarrollamos técnicas especializadas de producción de contenido que preservan el 100% del anonimato. Esto incluye una dirección de arte enfocada en ángulos, iluminación y composición que resaltan el cuerpo sin exponer rasgos faciales identificables." },
+        { "title": "3. Protección de Datos Sensibles", "content": "Todos los datos personales — incluyendo documentos de identidad, información bancaria y medios enviados durante el proceso de solicitud — se manejan con cifrado de extremo a extremo. No almacenamos datos confidenciales en servidores desprotegidos y restringimos el acceso exclusivamente al personal directivo autorizado." },
+        { "title": "4. Blindaje Financiero", "content": "Los cobros se procesan de forma que no generen rastros identificables en los extractos bancarios personales. Guiamos a nuestras Modelos sobre las mejores prácticas de recepción para mantener total discreción financiera." },
+        { "title": "5. Monitoreo Antifugas", "content": "Utilizamos herramientas de escaneo digital (DMCA takedown) para monitorear y eliminar proactivamente cualquier contenido que se redistribuya sin autorización en sitios y redes de terceros. La protección de tu imagen es continua y automatizada." },
+        { "title": "6. Protocolo de Emergencia", "content": "En caso de cualquier incidente de seguridad — como una sospecha de fuga, intento de extorsión o cualquier amenaza a la integridad de la Modelo — Secret Models activa de inmediato un protocolo de contención que incluye: eliminación de contenido de emergencia, soporte legal y orientación especializada." }
+      ],
+      "footer": "Tu seguridad es nuestra máxima prioridad. Si identificas alguna vulnerabilidad, comunícate con la gerencia de inmediato."
+    },
+    "privacy": {
+      "title": "Política de Privacidad",
+      "intro": "La privacidad no es solo un compromiso para Secret Models — es el pilar fundamental que sustenta toda nuestra operación. Esta Política detalla qué datos recopilamos, cómo los usamos y cuáles son tus derechos como titular de esta información.",
+      "sections": [
+        { "title": "1. Datos Recopilados", "content": "Durante el proceso de solicitud y a lo largo de la asociación, recopilamos exclusivamente los datos necesarios para la operación: nombre, edad, país de origen, información de contacto (WhatsApp, Telegram, Instagram o e-mail), imágenes de evaluación corporal y, posteriormente, datos bancarios para transferencias financieras y documentos requeridos por las plataformas asociadas." },
+        { "title": "2. Finalidad de Uso", "content": "Tus datos se utilizan exclusivamente para: (a) evaluación del perfil durante el proceso de selección; (b) creación y verificación de cuentas en plataformas de contenido; (c) gestión operativa de tu carrera digital; (d) comunicación interna entre tú y el equipo de gestión; (e) procesamiento de pagos y transferencias financieras." },
+        { "title": "3. Intercambio con Terceros", "content": "Secret Models <1>no vende, comparte ni divulga</1> tu información personal, financiera o de medios a terceros, agencias de marketing, socios comerciales ni ninguna entidad externa. El único intercambio que se realiza es estrictamente el requerido por las plataformas de contenido (OnlyFans, Privacy, Fansly) para fines de verificación de identidad y cumplimiento normativo." },
+        { "title": "4. Almacenamiento y Seguridad", "content": "Todos los datos se almacenan en una infraestructura protegida con cifrado y acceso restringido. Los medios enviados durante el proceso de solicitud se utilizan exclusivamente para evaluación interna y se eliminan de nuestros servidores si el perfil no es seleccionado." },
+        { "title": "5. Derecho al Olvido", "content": "Tienes el derecho garantido a solicitar, en cualquier momento, la eliminación definitiva e irreversible de todos tus datos personales y medios de nuestros sistemas. En caso de rescisión de la asociación, todos los datos sensibles almacenados por la Agencia serán eliminados en un plazo máximo de 30 (treinta) días naturales tras la solicitud formal." },
+        { "title": "6. Cookies y Rastreo", "content": "Este sitio web no utiliza cookies de seguimiento de comportamiento, píxeles de remarketing ni ninguna tecnología de monitoreo de terceros. Tu navegación en esta página es completamente anónima." },
+        { "title": "7. Tus Derechos", "content": "De acuerdo con la Ley General de Protección de Datos (LGPD — Ley Nº 13.709/2018) y regulaciones internacionales equivalentes (GDPR), tienes derecho a: acceder a tus datos, corregir información inexacta, solicitar la portabilidad de datos y revocar los consentimientos otorgados previamente, sin ningún costo ni penalidad." }
+      ],
+      "footer": "Última actualización: Abril de 2026. Si tienes alguna pregunta sobre esta política, comunícate directamente con la gerencia de Secret Models."
+    }
+  }
+}
