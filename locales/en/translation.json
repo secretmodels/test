@@ -126,24 +126,24 @@
       },
       "goalLabel": "Financial Goal ",
       "goalOptions": {
-        "5k": "Up to $1k",
-        "15k": "$1k to $3k",
-        "50k": "Above $3k",
+        "5k": "Up to $5k",
+        "15k": "$5k to $15k",
+        "50k": "Above $15k",
         "sky": "As much as possible"
       },
       "mandatory": "* Mandatory fields"
     },
     "step3": {
-      "q1Label": "Visual Delivery Capability",
-      "q1Placeholder": "Do you feel comfortable in front of the camera? Do you know how to pose or have you done photoshoots before? Tell us your experience.",
-      "q2Label": "Persuasion and Audience Engagement",
-      "q2Placeholder": "Do you consider yourself a sensual/sexy person? How is your relationship with your own image?",
-      "q3Label": "Interest and Entry Barrier",
-      "q3Placeholder": "Have you been interested in operating in this market before? What stopped you or made you wait until now?",
-      "q4Label": "Strategic Financial Goal (Short/Medium Term)",
-      "q4Placeholder": "Independence, material goods, helping the family... what is your drive?",
-      "q5Label": "Non-negotiable Limits and Restrictions",
-      "q5Placeholder": "What are you NOT willing to do under any circumstances..."
+      "q1Label": "What parts of your body do you think draw the most attention? Why?",
+      "q1Placeholder": "Ex: My eyes and curves, because...",
+      "q2Label": "Do you know how to dance?",
+      "q2Placeholder": "Ex: Reggaeton, funk, k-pop, etc.",
+      "q3Label": "Does good money mean anything goes, or do you have limits in content creation?",
+      "q3Placeholder": "If so, list 3 things you wouldn't do (Ex: wouldn't record videos in public, etc.)",
+      "q4Label": "Are you available to record content with someone else?",
+      "q4Placeholder": "Yes, no, or depends on the situation...",
+      "q5Label": "Are you available to record fetishes or hardcore?",
+      "q5Placeholder": "Fetishes, hardcore, both or neither..."
     },
     "step4": {
       "alert": "<1>Preliminary Aesthetic Analysis.</1> The submitted media <2>will not be stored</2>. They will undergo a technical analysis performed by our evaluator and will be <3>deleted from our server</3> immediately after.",

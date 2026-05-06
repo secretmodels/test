@@ -134,16 +134,16 @@
       "mandatory": "* Campos obrigatórios"
     },
     "step3": {
-      "q1Label": "Capacidade de Entrega Visual",
-      "q1Placeholder": "Você se sente à vontade na frente da câmera? Sabe fazer poses ou já realizou ensaios antes? Conte sua experiência.",
-      "q2Label": "Persuasão e Engajamento de Audiência",
-      "q2Placeholder": "Você se considera uma pessoa sensual/sexy? Como é sua relação com sua própria imagem?",
-      "q3Label": "Interesse e Barreira de Entrada",
-      "q3Placeholder": "Você já teve interesse em operar nesse mercado antes? O que te impediu ou te fez esperar até agora?",
-      "q4Label": "Objetivo Financeiro Estratégico (Curto/Médio Prazo)",
-      "q4Placeholder": "Independência, bens materiais, ajudar a família... qual seu fôlego?",
-      "q5Label": "Limites e Restrições Inegociáveis",
-      "q5Placeholder": "O que você NÃO está disposta a realizar sob nenhuma hipótese..."
+      "q1Label": "Que partes do seu corpo você acha que chamam mais atenção? Por quê?",
+      "q1Placeholder": "Ex: Meus olhos e curvas, porque...",
+      "q2Label": "Você sabe dançar?",
+      "q2Placeholder": "Ex: Reggaeton, funk brasileiro, k-pop, etc.",
+      "q3Label": "Pagando bem qualquer coisa vale, ou você tem limites na criação de conteúdo?",
+      "q3Placeholder": "Se sim, cite 3 coisas que não faria (Ex: não gravaria vídeos em público, etc.)",
+      "q4Label": "Tem disponibilidade para gravar conteúdos acompanhada?",
+      "q4Placeholder": "Sim, não, ou depende da situação...",
+      "q5Label": "Tem disponibilidade para gravar fetiches ou hardcore?",
+      "q5Placeholder": "Fetiches, hardcore, ambos ou nenhum..."
     },
     "step4": {
       "alert": "<1>Análise Estética Preliminar.</1> As mídias enviadas <2>não serão armazenadas</2>. Elas passarão por uma análise técnica realizada pela nossa avaliadora e serão <3>apagadas do nosso servidor</3> em seguida.",

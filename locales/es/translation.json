@@ -126,24 +126,24 @@
       },
       "goalLabel": "Meta Financiera ",
       "goalOptions": {
-        "5k": "Hasta $1k",
-        "15k": "$1k a $3k",
-        "50k": "Más de $3k",
+        "5k": "Hasta $5k",
+        "15k": "$5k a $15k",
+        "50k": "Más de $15k",
         "sky": "Lo máximo posible"
       },
       "mandatory": "* Campos obligatorios"
     },
     "step3": {
-      "q1Label": "Capacidad de Entrega Visual",
-      "q1Placeholder": "¿Te sientes cómoda frente a la cámara? ¿Sabes posar o has realizado sesiones antes? Cuéntanos tu experiencia.",
-      "q2Label": "Persuasión y Compromiso de Audiencia",
-      "q2Placeholder": "¿Te consideras una persona sensual/sexy? ¿Cómo es tu relación con tu propia imagen?",
-      "q3Label": "Interés y Barrera de Entrada",
-      "q3Placeholder": "¿Has tenido interés en operar en este mercado antes? ¿Qué te impidió o te hizo esperar hasta ahora?",
-      "q4Label": "Objetivo Financiero Estratégico (Corto/Medio Plazo)",
-      "q4Placeholder": "Independencia, bienes materiales, ayudar a la familia... ¿cuál es tu impulso?",
-      "q5Label": "Límites y Restricciones Innegociables",
-      "q5Placeholder": "Lo que NO estás dispuesta a hacer bajo ninguna circunstancia..."
+      "q1Label": "¿Qué partes de tu cuerpo crees que llaman más la atención? ¿Por qué?",
+      "q1Placeholder": "Ej: Mis ojos y curvas, porque...",
+      "q2Label": "¿Sabes bailar?",
+      "q2Placeholder": "Ej: Reguetón, funk, k-pop, etc.",
+      "q3Label": "¿Pagando bien todo vale, o tienes límites en la creación de contenido?",
+      "q3Placeholder": "Si es así, menciona 3 cosas que no harías (Ej: no grabaría videos en público, etc.)",
+      "q4Label": "¿Tienes disponibilidad para grabar contenido acompañada?",
+      "q4Placeholder": "Sí, no, o depende de la situación...",
+      "q5Label": "¿Tienes disponibilidad para grabar fetiches o hardcore?",
+      "q5Placeholder": "Fetiches, hardcore, ambos o ninguno..."
     },
     "step4": {
       "alert": "<1>Análisis Estético Preliminar.</1> Los medios enviados <2>no serán almacenados</2>. Pasarán por un análisis técnico realizado por nuestra evaluadora y serán <3>borrados de nuestro servidor</3> a continuación.",
