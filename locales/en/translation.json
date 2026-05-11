@@ -69,11 +69,13 @@
     "of": "of",
     "titles": {
       "1": "Identification",
-      "2": "Technical Profile",
-      "3": "Career Vision",
-      "4": "Visual Assessment *",
-      "5": "Secure Contact *",
-      "6": "Success!"
+      "2": "Contact",
+      "3": "Experience & Goals",
+      "4": "Setup & Availability",
+      "5": "Profile & Skills",
+      "6": "Limits & Fetishes (Optional)",
+      "7": "Visual Assessment *",
+      "success": "Success!"
     },
     "buttons": {
       "back": "Back",
@@ -98,9 +100,17 @@
       "namePlaceholder": "Ex: Mary Smith",
       "ageLabel": "Age (Minimum 18) ",
       "agePlaceholder": "Ex: 19",
-      "ageWarning": "Only for people over 18."
+      "ageWarning": "Only for people over 18.",
+      "emailLabel": "E-mail ",
+      "emailPlaceholder": "e.g. maria.silva@email.com",
+      "whatsappLabel": "WhatsApp ",
+      "whatsappPlaceholder": "Your phone number",
+      "countryLabel": "Country of Origin ",
+      "countryPlaceholder": "Select or search..."
     },
     "step2": {
+      "intro": "This data will be used only for contact and to unlock your access to our <1>exclusive reference platform</1>.",
+      "consent": "I agree to receive updates and communications about the selection process via WhatsApp and email.",
       "phoneLabel": "Your Phone Model ",
       "phonePlaceholder": "Ex: iPhone 14 Pro Max",
       "relationshipLabel": "Relationship Status ",
@@ -124,20 +134,30 @@
         "full": "Full dedication",
         "weekend": "Weekends"
       },
-      "goalLabel": "Financial Goal ",
-      "goalOptions": {
-        "5k": "Up to $5k",
-        "15k": "$5k to $15k",
-        "50k": "Above $15k",
-        "sky": "As much as possible"
+      "goalLabel": "How much do you want to earn per month?",
+      "goalPlaceholder": "Enter desired amount",
+      "mandatory": "* Mandatory fields",
+      "countryHint": "The currency you will receive will be based on your location and target audience.",
+      "lightingLabel": "Do you have lighting/recording equipment? (ring light, tripod, etc.)",
+      "soldBeforeLabel": "Have you sold content before?",
+      "soldBeforeOptions": {
+        "yes": "Yes",
+        "no": "No"
       },
-      "mandatory": "* Mandatory fields"
+      "objectiveLabel": "What is your main financial goal currently?",
+      "objectivePlaceholder": "e.g. Buy a car, independence, pay off debts...",
+      "facialLabel": "Are you available for content with facial exposure?",
+      "facialOptions": {
+        "yes": "Yes",
+        "no": "No",
+        "depends": "It depends"
+      }
     },
     "step3": {
       "q1Label": "What parts of your body do you think draw the most attention? Why?",
       "q1Placeholder": "Ex: My eyes and curves, because...",
-      "q2Label": "Do you know how to dance?",
-      "q2Placeholder": "Ex: Reggaeton, funk, k-pop, etc.",
+      "q2Label": "Can you dance or create performative content?",
+      "q2Placeholder": "E.g. Reggaeton, twerk, k-pop, sensual dance, etc.",
       "q3Label": "Does good money mean anything goes, or do you have limits in content creation?",
       "q3Placeholder": "If so, list 3 things you wouldn't do (Ex: wouldn't record videos in public, etc.)",
       "q4Label": "Are you available to record content with someone else?",
@@ -181,13 +201,20 @@
     "step6": {
       "title": "Success!",
       "desc": "Pay attention to the contact from our evaluator.",
-      "close": "Close"
+      "close": "Close",
+      "limits": {
+        "none": "No specific limits",
+        "noFace": "No face in explicit content",
+        "noFrontal": "No frontal nudity",
+        "other": "Other (Will inform later)"
+      }
     },
     "zod": {
       "required": "Required field.",
       "name": "Please enter your first and last name.",
       "age": "Only for people over 18.",
-      "contact": "Required field so we can contact you."
+      "contact": "Required field so we can contact you.",
+      "email": "Please enter a valid e-mail."
     },
     "service": {
       "optimizing": "Optimizing your photos...",
@@ -196,6 +223,19 @@
       "connectionError": "Failed to connect to the target server.",
       "saveError": "Error saving your data to the database.",
       "invalidFormat": "Invalid image format."
+    },
+    "step7": {
+      "accompanied": {
+        "yes": "Yes, I can",
+        "no": "No, solo only"
+      }
+    },
+    "step8": {
+      "change": "Change",
+      "tapToPhoto": "Tap to take a photo"
+    },
+    "step3contact": {
+      "phonePlaceholder": "Phone number"
     }
   },
   "trustBadges": [
@@ -521,9 +561,15 @@
       }
     ],
     "stats": [
-      { "label": "Countries Served" },
-      { "label": "Strong Currencies" },
-      { "label": "Bilingual Support" }
+      {
+        "label": "Countries Served"
+      },
+      {
+        "label": "Strong Currencies"
+      },
+      {
+        "label": "Bilingual Support"
+      }
     ],
     "map": {
       "saopaulo": "São Paulo",
@@ -548,13 +594,34 @@
       "title": "Terms of Use",
       "intro": "These Terms of Use (\"Terms\") govern the access to and use of the services offered by Secret Models (\"Agency\", \"we\"). By submitting an application, accessing this website, or initiating any form of partnership with us, you (\"Model\", \"Creator\") declare that you have read, understood, and fully agree to the conditions set forth herein.",
       "sections": [
-        { "title": "1. Eligibility", "content": "The services of Secret Models are intended exclusively for individuals aged 18 (eighteen) or older, fully capable under the legislation in force in their country of residence. Proof of age is mandatory and will be requested during the verification process of partner platforms." },
-        { "title": "2. Nature of the Partnership", "content": "The relationship between Secret Models and the Model is of a commercial nature, based on a commission on the net revenue generated on digital platforms. There are no joining fees, monthly fees, or upfront costs to start activities. The Model is not an employee of the Agency, and the relationship is configured as an independent and mutual provision of services." },
-        { "title": "3. Obligations of the Model", "content": "The Model commits to: (a) providing true and updated information during the application process; (b) producing and sending media (photos and videos) according to the guidelines agreed upon with the management team; (c) maintaining absolute secrecy about the Agency's business strategies, internal processes, and proprietary methodologies; (d) not establishing parallel agreements with third parties that conflict with the terms of the current partnership." },
-        { "title": "4. Obligations of the Agency", "content": "Secret Models commits to: (a) providing all the infrastructure for management, traffic acquisition, editing, engagement, and sales; (b) keeping the Model with unrestricted access to the platforms for real-time financial auditing; (c) ensuring the absolute secrecy of all personal information and shared media; (d) making financial transfers within the deadlines agreed upon in the individual contract." },
-        { "title": "5. Intellectual Property", "content": "All content produced by the Model remains her intellectual property. The Agency holds a license to use it for the exclusive purposes of distribution, promotion, and monetization on agreed platforms during the term of the partnership." },
-        { "title": "6. Termination", "content": "Both parties may terminate the partnership at any time, with prior notice as stipulated in the individual contract. In the event of termination, the Agency commits to immediately cease publishing new content and to make pending financial transfers within the contractual deadline." },
-        { "title": "7. Limitation of Liability", "content": "Secret Models is not responsible for: (a) natural variations in revenue due to market fluctuations or platform algorithms; (b) actions of third parties that are beyond the direct control of the Agency; (c) consequences resulting from false information provided by the Model during the application process." }
+        {
+          "title": "1. Eligibility",
+          "content": "The services of Secret Models are intended exclusively for individuals aged 18 (eighteen) or older, fully capable under the legislation in force in their country of residence. Proof of age is mandatory and will be requested during the verification process of partner platforms."
+        },
+        {
+          "title": "2. Nature of the Partnership",
+          "content": "The relationship between Secret Models and the Model is of a commercial nature, based on a commission on the net revenue generated on digital platforms. There are no joining fees, monthly fees, or upfront costs to start activities. The Model is not an employee of the Agency, and the relationship is configured as an independent and mutual provision of services."
+        },
+        {
+          "title": "3. Obligations of the Model",
+          "content": "The Model commits to: (a) providing true and updated information during the application process; (b) producing and sending media (photos and videos) according to the guidelines agreed upon with the management team; (c) maintaining absolute secrecy about the Agency's business strategies, internal processes, and proprietary methodologies; (d) not establishing parallel agreements with third parties that conflict with the terms of the current partnership."
+        },
+        {
+          "title": "4. Obligations of the Agency",
+          "content": "Secret Models commits to: (a) providing all the infrastructure for management, traffic acquisition, editing, engagement, and sales; (b) keeping the Model with unrestricted access to the platforms for real-time financial auditing; (c) ensuring the absolute secrecy of all personal information and shared media; (d) making financial transfers within the deadlines agreed upon in the individual contract."
+        },
+        {
+          "title": "5. Intellectual Property",
+          "content": "All content produced by the Model remains her intellectual property. The Agency holds a license to use it for the exclusive purposes of distribution, promotion, and monetization on agreed platforms during the term of the partnership."
+        },
+        {
+          "title": "6. Termination",
+          "content": "Both parties may terminate the partnership at any time, with prior notice as stipulated in the individual contract. In the event of termination, the Agency commits to immediately cease publishing new content and to make pending financial transfers within the contractual deadline."
+        },
+        {
+          "title": "7. Limitation of Liability",
+          "content": "Secret Models is not responsible for: (a) natural variations in revenue due to market fluctuations or platform algorithms; (b) actions of third parties that are beyond the direct control of the Agency; (c) consequences resulting from false information provided by the Model during the application process."
+        }
       ],
       "footer": "Last updated: April 2026. These terms may be updated periodically. We recommend reviewing this document regularly."
     },
@@ -562,12 +629,30 @@
       "title": "Compliance Policy",
       "intro": "Secret Models operates under the strictest standards of integrity, ethics, and legal compliance applicable to the digital adult entertainment market. This policy describes the pillars that support our operation and ensure the legality of all activities conducted under our management.",
       "sections": [
-        { "title": "1. Identity and Age Verification", "content": "In compliance with international regulations — including, but not limited to, Title 18 of the United States Code (USC §2257) and its equivalents in applicable jurisdictions — all Models managed by Secret Models go through a mandatory identity verification and age proof process before starting any activity. No content is published without the full completion of this process." },
-        { "title": "2. Informed Consent", "content": "Any and all content produced and distributed by the Agency is the result of the express, free, and informed consent of the Model. The Creator has total autonomy to define the limits of her production, refuse content categories, and revoke previously granted consents at any time, without penalties." },
-        { "title": "3. Platform Compliance", "content": "Secret Models operates strictly within the Terms of Service of each partner platform (OnlyFans, Privacy, Fansly, and others). We do not practice, encourage, or tolerate any violation of these platforms' regulations, including, but not limited to: artificial manipulation of metrics, use of bots, or creation of fraudulent accounts." },
-        { "title": "4. Documentary and Financial Ethics", "content": "The handling of civil documents and banking data is carried out exclusively for approval and verification purposes required by the platforms. All data is stored with bank-level encryption and security protocols. The Agency maintains transparent financial records accessible to the Model for auditing at any time." },
-        { "title": "5. Combating Exploitation", "content": "Secret Models has zero tolerance for any form of exploitation, coercion, or forced labor. All partnerships are entered into voluntarily, with clear and terminable terms. Any report of irregular practices is immediately investigated by management." },
-        { "title": "6. Whistleblower Channel", "content": "We provide confidential communication channels so that Models, employees, or third parties can report potential violations of this policy. All reports are treated with absolute secrecy and without retaliation." }
+        {
+          "title": "1. Identity and Age Verification",
+          "content": "In compliance with international regulations — including, but not limited to, Title 18 of the United States Code (USC §2257) and its equivalents in applicable jurisdictions — all Models managed by Secret Models go through a mandatory identity verification and age proof process before starting any activity. No content is published without the full completion of this process."
+        },
+        {
+          "title": "2. Informed Consent",
+          "content": "Any and all content produced and distributed by the Agency is the result of the express, free, and informed consent of the Model. The Creator has total autonomy to define the limits of her production, refuse content categories, and revoke previously granted consents at any time, without penalties."
+        },
+        {
+          "title": "3. Platform Compliance",
+          "content": "Secret Models operates strictly within the Terms of Service of each partner platform (OnlyFans, Privacy, Fansly, and others). We do not practice, encourage, or tolerate any violation of these platforms' regulations, including, but not limited to: artificial manipulation of metrics, use of bots, or creation of fraudulent accounts."
+        },
+        {
+          "title": "4. Documentary and Financial Ethics",
+          "content": "The handling of civil documents and banking data is carried out exclusively for approval and verification purposes required by the platforms. All data is stored with bank-level encryption and security protocols. The Agency maintains transparent financial records accessible to the Model for auditing at any time."
+        },
+        {
+          "title": "5. Combating Exploitation",
+          "content": "Secret Models has zero tolerance for any form of exploitation, coercion, or forced labor. All partnerships are entered into voluntarily, with clear and terminable terms. Any report of irregular practices is immediately investigated by management."
+        },
+        {
+          "title": "6. Whistleblower Channel",
+          "content": "We provide confidential communication channels so that Models, employees, or third parties can report potential violations of this policy. All reports are treated with absolute secrecy and without retaliation."
+        }
       ],
       "footer": "This policy is reviewed biannually and updated as required by regulatory changes in applicable jurisdictions."
     },
@@ -575,12 +660,30 @@
       "title": "Security and Shielding",
       "intro": "The protection of identity and the personal security of our Models are the non-negotiable foundation of Secret Models' operation. Below we detail the layers of protection we implement to shield your private life.",
       "sections": [
-        { "title": "1. Geographic Shielding (Geoblocking)", "content": "We implement advanced regional blocking technologies on content platforms, preventing users located in your country, state, city, or defined proximity radius from accessing your profile. This means that family members, coworkers, and acquaintances from your social circle will not be able to view your content, even if they actively search for it." },
-        { "title": "2. Faceless Strategy", "content": "For Models who opt for the faceless strategy, we develop specialized content production techniques that preserve 100% anonymity. This includes art direction focused on angles, lighting, and composition that highlight the body without exposing identifiable facial features." },
-        { "title": "3. Sensitive Data Protection", "content": "All personal data — including identity documents, banking information, and media sent during the application process — is handled with end-to-end encryption. We do not store sensitive data on unprotected servers and restrict access exclusively to authorized management personnel." },
-        { "title": "4. Financial Shielding", "content": "Receipts are processed in a way that does not generate identifiable traces on personal bank statements. We guide our Models on the best receiving practices to maintain total financial discretion." },
-        { "title": "5. Anti-Leak Monitoring", "content": "We use digital scanning tools (DMCA takedown) to proactively monitor and remove any content that is redistributed without authorization on third-party sites and networks. The protection of your image is continuous and automated." },
-        { "title": "6. Emergency Protocol", "content": "In the event of any security incident — such as a suspected leak, extortion attempt, or any threat to the Model's integrity — Secret Models immediately activates a containment protocol that includes: emergency content removal, legal support, and specialized guidance." }
+        {
+          "title": "1. Geographic Shielding (Geoblocking)",
+          "content": "We implement advanced regional blocking technologies on content platforms, preventing users located in your country, state, city, or defined proximity radius from accessing your profile. This means that family members, coworkers, and acquaintances from your social circle will not be able to view your content, even if they actively search for it."
+        },
+        {
+          "title": "2. Faceless Strategy",
+          "content": "For Models who opt for the faceless strategy, we develop specialized content production techniques that preserve 100% anonymity. This includes art direction focused on angles, lighting, and composition that highlight the body without exposing identifiable facial features."
+        },
+        {
+          "title": "3. Sensitive Data Protection",
+          "content": "All personal data — including identity documents, banking information, and media sent during the application process — is handled with end-to-end encryption. We do not store sensitive data on unprotected servers and restrict access exclusively to authorized management personnel."
+        },
+        {
+          "title": "4. Financial Shielding",
+          "content": "Receipts are processed in a way that does not generate identifiable traces on personal bank statements. We guide our Models on the best receiving practices to maintain total financial discretion."
+        },
+        {
+          "title": "5. Anti-Leak Monitoring",
+          "content": "We use digital scanning tools (DMCA takedown) to proactively monitor and remove any content that is redistributed without authorization on third-party sites and networks. The protection of your image is continuous and automated."
+        },
+        {
+          "title": "6. Emergency Protocol",
+          "content": "In the event of any security incident — such as a suspected leak, extortion attempt, or any threat to the Model's integrity — Secret Models immediately activates a containment protocol that includes: emergency content removal, legal support, and specialized guidance."
+        }
       ],
       "footer": "Your security is our highest priority. If you identify any vulnerability, contact management immediately."
     },
@@ -588,13 +691,34 @@
       "title": "Privacy Policy",
       "intro": "Privacy is not just a commitment for Secret Models — it is the fundamental pillar that supports our entire operation. This Policy details what data we collect, how we use it, and what your rights are as the owner of this information.",
       "sections": [
-        { "title": "1. Data Collected", "content": "During the application process and throughout the partnership, we collect exclusively the data necessary for the operation: name, age, country of origin, contact information (WhatsApp, Telegram, Instagram, or e-mail), body evaluation images, and, later, banking data for financial transfers and documents required by partner platforms." },
-        { "title": "2. Purpose of Use", "content": "Your data is used exclusively for: (a) profile evaluation during the selection process; (b) creation and verification of accounts on content platforms; (c) operational management of your digital career; (d) internal communication between you and the management team; (e) processing of payments and financial transfers." },
-        { "title": "3. Sharing with Third Parties", "content": "Secret Models <1>does not sell, share, or disclose</1> your personal, financial, or media information to third parties, marketing agencies, commercial partners, or any external entity. The only sharing performed is strictly what is required by content platforms (OnlyFans, Privacy, Fansly) for identity verification and regulatory compliance purposes." },
-        { "title": "4. Storage and Security", "content": "All data is stored in protected infrastructure with encryption and restricted access. The media sent during the application process is used exclusively for internal evaluation and is deleted from our servers if the profile is not selected." },
-        { "title": "5. Right to be Forgotten", "content": "You have the guaranteed right to request, at any time, the definitive and irreversible deletion of all your personal data and media from our systems. In the event of partnership termination, all sensitive data stored by the Agency will be deleted within a maximum period of 30 (thirty) calendar days after the formal request." },
-        { "title": "6. Cookies and Tracking", "content": "This website does not use behavioral tracking cookies, remarketing pixels, or any third-party monitoring technology. Your browsing on this page is completely anonymous." },
-        { "title": "7. Your Rights", "content": "In accordance with the General Data Protection Law (LGPD — Law No. 13,709/2018) and equivalent international regulations (GDPR), you have the right to: access your data, correct inaccurate information, request data portability, and revoke previously granted consents, without any cost or penalty." }
+        {
+          "title": "1. Data Collected",
+          "content": "During the application process and throughout the partnership, we collect exclusively the data necessary for the operation: name, age, country of origin, contact information (WhatsApp, Telegram, Instagram, or e-mail), body evaluation images, and, later, banking data for financial transfers and documents required by partner platforms."
+        },
+        {
+          "title": "2. Purpose of Use",
+          "content": "Your data is used exclusively for: (a) profile evaluation during the selection process; (b) creation and verification of accounts on content platforms; (c) operational management of your digital career; (d) internal communication between you and the management team; (e) processing of payments and financial transfers."
+        },
+        {
+          "title": "3. Sharing with Third Parties",
+          "content": "Secret Models <1>does not sell, share, or disclose</1> your personal, financial, or media information to third parties, marketing agencies, commercial partners, or any external entity. The only sharing performed is strictly what is required by content platforms (OnlyFans, Privacy, Fansly) for identity verification and regulatory compliance purposes."
+        },
+        {
+          "title": "4. Storage and Security",
+          "content": "All data is stored in protected infrastructure with encryption and restricted access. The media sent during the application process is used exclusively for internal evaluation and is deleted from our servers if the profile is not selected."
+        },
+        {
+          "title": "5. Right to be Forgotten",
+          "content": "You have the guaranteed right to request, at any time, the definitive and irreversible deletion of all your personal data and media from our systems. In the event of partnership termination, all sensitive data stored by the Agency will be deleted within a maximum period of 30 (thirty) calendar days after the formal request."
+        },
+        {
+          "title": "6. Cookies and Tracking",
+          "content": "This website does not use behavioral tracking cookies, remarketing pixels, or any third-party monitoring technology. Your browsing on this page is completely anonymous."
+        },
+        {
+          "title": "7. Your Rights",
+          "content": "In accordance with the General Data Protection Law (LGPD — Law No. 13,709/2018) and equivalent international regulations (GDPR), you have the right to: access your data, correct inaccurate information, request data portability, and revoke previously granted consents, without any cost or penalty."
+        }
       ],
       "footer": "Last updated: April 2026. If you have any questions about this policy, contact Secret Models management directly."
     }
